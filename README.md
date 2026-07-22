@@ -89,6 +89,85 @@ NEXMAINT-Predictive-Maintenance/
 ```
 
 ---
+---
+
+# 📸 Project Screenshots
+
+## 🏠 Dashboard
+
+### Dashboard 1
+![Dashboard 1](images/dashboard1.png)
+
+### Dashboard 2
+![Dashboard 2](images/dashboard2.png)
+
+---
+
+## 🖥️ Machines
+
+### Machines Overview
+![Machines](images/machines.png)
+
+---
+
+## 🤖 AI Prediction
+
+### Machine Details - AI Prediction
+![AI Prediction](images/machine%20details%20-%20AI%20prediction.png)
+
+---
+
+## 📊 Machine Overview
+
+### Machine Overview
+![Machine Overview](images/machine%20details%20-%20overview.png)
+
+---
+
+## 📡 Sensor Monitoring
+
+### Sensor Details
+![Sensor Details](images/machine%20details%20-%20sensors.png)
+
+---
+
+## 🛠️ Maintenance History
+
+### Maintenance Records
+![Maintenance](images/machine%20details%20-%20Maintenance.png)
+
+### History
+![History](images/machine%20details%20-%20History.png)
+
+---
+
+## 📈 Analytics
+
+### Analytics Dashboard
+![Analytics](images/analytics.png)
+
+---
+
+## 🚨 Alerts
+
+### Alerts Panel
+![Alerts](images/alerts.png)
+
+---
+
+## 📑 Reports
+
+### Reports
+![Reports](images/reports.png)
+
+---
+
+## ⚙️ Settings & About
+
+### Settings and About
+![Settings](images/settings%20and%20about.png)
+
+---
 
 ## ▶️ How to Run
 
