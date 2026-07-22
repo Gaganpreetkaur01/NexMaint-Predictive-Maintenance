@@ -78,17 +78,17 @@ After downloading, place the processed dataset (`master_cleaned.csv`) inside the
 
 ## 📁 Project Structure
 
+```text
+NexMaint-Predictive-Maintenance/
+│
+├── images/                 # Project screenshots
+├── models/                 # Saved machine learning models
+├── notebooks/              # Data preprocessing & model development
+├── .gitignore              # Ignored files and folders
+├── main.py                 # Main application
+├── README.md               # Project documentation
+└── requirements.txt        # Python dependencies
 ```
-NEXMAINT-Predictive-Maintenance/
-│── main.py
-│── PROJECT.ipynb
-│── random_forest_model.pkl
-│── preprocessor.pkl
-│── requirements.txt
-│── README.md
-```
-
----
 ---
 
 # 📸 Project Screenshots
