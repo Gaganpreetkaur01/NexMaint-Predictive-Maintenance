@@ -55,15 +55,24 @@ This project uses the Microsoft Azure Predictive Maintenance dataset to train a 
 
 ## 📊 Dataset
 
-Microsoft Azure Predictive Maintenance Dataset
+This project uses the **Microsoft Azure Predictive Maintenance Dataset**.
 
-It contains:
+The dataset contains:
 
 - Telemetry data
 - Machine information
 - Error logs
 - Maintenance records
 - Failure records
+
+**Note:**  
+The dataset is **not included** in this repository because it exceeds GitHub's 100 MB file size limit.
+
+You can download it from Kaggle:
+
+https://www.kaggle.com/datasets/arnabbiswas1/microsoft-azure-predictive-maintenance
+
+After downloading, place the processed dataset (`master_cleaned.csv`) inside the `Data/` folder before running the project.
 
 ---
 
