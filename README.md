@@ -80,7 +80,7 @@ After downloading, place the processed dataset (`master_cleaned.csv`) inside the
 
 ```
 NEXMAINT-Predictive-Maintenance/
-│── app.py
+│── main.py
 │── PROJECT.ipynb
 │── random_forest_model.pkl
 │── preprocessor.pkl
@@ -186,7 +186,7 @@ pip install -r requirements.txt
 3. Run the application
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ---
