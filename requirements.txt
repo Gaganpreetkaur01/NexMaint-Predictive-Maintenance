@@ -6,3 +6,4 @@ joblib
 Pillow
 imbalanced-learn
 streamlit
+plotly
