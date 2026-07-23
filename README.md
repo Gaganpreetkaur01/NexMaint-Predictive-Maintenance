@@ -1,16 +1,16 @@
-# 🚀 NEXMAINT - Predictive Maintenance System
+# NEXMAINT - Predictive Maintenance System
 
 NEXMAINT is an AI-powered Predictive Maintenance System that uses Machine Learning to predict industrial machine failures before they occur. The project helps industries reduce downtime, improve equipment reliability, and optimize maintenance schedules through intelligent failure prediction.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project uses the Microsoft Azure Predictive Maintenance dataset to train a Random Forest Classifier that predicts whether a machine is likely to fail based on sensor readings and machine information. The trained model is integrated into an interactive Streamlit dashboard for real-time predictions and visualization.
 
 ---
 
-## ✨ Features
+## Features
 
 - Machine failure prediction using Machine Learning
 - Interactive Streamlit dashboard
@@ -24,7 +24,7 @@ This project uses the Microsoft Azure Predictive Maintenance dataset to train a 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Streamlit
@@ -38,7 +38,7 @@ This project uses the Microsoft Azure Predictive Maintenance dataset to train a 
 
 ---
 
-## 🤖 Machine Learning Model
+## Machine Learning Model
 
 - Algorithm: Random Forest Classifier
 - Dataset: Microsoft Azure Predictive Maintenance Dataset
@@ -91,9 +91,9 @@ NexMaint-Predictive-Maintenance/
 ```
 ---
 
-# 📸 Project Screenshots
+#  Project Screenshots
 
-## 🏠 Dashboard
+##  Dashboard
 
 ### Dashboard 1
 ![Dashboard 1](images/dashboard1.png)
@@ -103,35 +103,35 @@ NexMaint-Predictive-Maintenance/
 
 ---
 
-## 🖥️ Machines
+##  Machines
 
 ### Machines Overview
 ![Machines](images/machines.png)
 
 ---
 
-## 🤖 AI Prediction
+##  AI Prediction
 
 ### Machine Details - AI Prediction
 ![AI Prediction](images/machine%20details%20-%20AI%20prediction.png)
 
 ---
 
-## 📊 Machine Overview
+##  Machine Overview
 
 ### Machine Overview
 ![Machine Overview](images/machine%20details%20-%20overview.png)
 
 ---
 
-## 📡 Sensor Monitoring
+##  Sensor Monitoring
 
 ### Sensor Details
 ![Sensor Details](images/machine%20details%20-%20sensors.png)
 
 ---
 
-## 🛠️ Maintenance History
+##  Maintenance History
 
 ### Maintenance Records
 ![Maintenance](images/machine%20details%20-%20Maintenance.png)
@@ -169,7 +169,7 @@ NexMaint-Predictive-Maintenance/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository
 
@@ -191,9 +191,8 @@ streamlit run main.py
 
 ---
 
-## 🎯 Future Improvements
+##  Future Improvements
 
-- Real-time IoT sensor integration
 - Cloud deployment
 - Email alert system
 - Explainable AI (SHAP)
