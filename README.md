@@ -3,6 +3,10 @@
 NEXMAINT is an AI-powered Predictive Maintenance System that uses Machine Learning to predict industrial machine failures before they occur. The project helps industries reduce downtime, improve equipment reliability, and optimize maintenance schedules through intelligent failure prediction.
 
 ---
+## Live Project
+Streamlit App : https://nexmaint-predictive-maintenance.onrender.com/
+
+---
 
 ## Project Overview
 
