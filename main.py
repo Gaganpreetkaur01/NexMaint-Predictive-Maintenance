@@ -95,8 +95,8 @@ CHART_MARGIN = dict(l=10, r=10, t=30, b=10)
 # =========================================================
 # MODEL LOADING
 # =========================================================
-MODEL_PATH = "random_forest_model.pkl"
-PREPROCESSOR_PATH = "preprocessor.pkl"
+MODEL_PATH = "models\random_forest_model.pkl"
+PREPROCESSOR_PATH = "models\preprocessor.pkl"
 
 NUM_COLS = ["volt", "rotate", "pressure", "vibration", "age", "vibration_roll3", "error_count"]
 CAT_COLS = ["model", "errorID", "comp", "age_group"]
